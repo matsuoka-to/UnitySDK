@@ -5,7 +5,7 @@
   "description": "PlayFabEditorExtensions UPM",
   "unity": "2022.3",
   "author": {
-    "name": "Microsoft Azure",
+    "name": "Microsoft",
     "url": "https://github.com/matsuoka-to/UnitySDK/PlayFabEditorExtensions"
   }
 }
