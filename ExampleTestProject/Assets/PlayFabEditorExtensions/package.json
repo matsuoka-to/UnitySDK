@@ -1,11 +1,11 @@
 {
-  "name": "com.playfab.sdk",
+  "name": "com.playfab.editor",
   "version": "2.221.0",
   "displayName": "PlayFabEditorExtensions",
   "description": "PlayFabEditorExtensions UPM",
   "unity": "2022.3",
   "author": {
-    "name": "Microsoft",
-    "url": "https://github.com/matsuoka-to/UnitySDK/PlayFabEditorExtensions"
+    "name": "Microsoft Azure",
+    "url": "https://github.com/matsuoka-to/UnitySDK.git?path=ExampleTestProject/Assets/PlayFabEditorExtensions"
   }
 }

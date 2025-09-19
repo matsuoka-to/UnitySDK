@@ -6,6 +6,6 @@
   "unity": "2022.3",
   "author": {
     "name": "Microsoft Azure",
-    "url": "https://github.com/matsuoka-to/UnitySDK/PlayFabSDK"
+    "url": "https://github.com/matsuoka-to/UnitySDK.git?path=ExampleTestProject/Assets/PlayFabSDK"
   }
 }
