@@ -5,9 +5,8 @@
   "description": "PlayFab SDK UPM",
   "unity": "6000.0.58f1",
   "keywords": ["playfab", "backend", "multiplayer"],
-  "editor": true,
   "author": {
     "name": "PlayFab",
-    "url": "https://github.com/PlayFab/UnitySDK"
+    "url": "https://github.com/matsuoka-to/UnitySDK"
   }
 }
