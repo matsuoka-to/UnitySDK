@@ -4,9 +4,8 @@
   "displayName": "PlayFab SDK",
   "description": "PlayFab SDK UPM",
   "unity": "2022.3",
-  "keywords": ["playfab", "backend", "multiplayer"],
   "author": {
-    "name": "PlayFab",
+    "name": "Microsoft Azure",
     "url": "https://github.com/matsuoka-to/UnitySDK"
   }
 }

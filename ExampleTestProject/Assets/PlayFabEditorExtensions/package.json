@@ -4,9 +4,8 @@
   "displayName": "PlayFabEditorExtensions",
   "description": "PlayFabEditorExtensions UPM",
   "unity": "2022.3",
-  "keywords": ["playfab", "backend", "multiplayer"],
   "author": {
-    "name": "PlayFabEditorExtensions",
+    "name": "Microsoft Azure",
     "url": "https://github.com/matsuoka-to/UnitySDK"
   }
 }
