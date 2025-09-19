@@ -1,0 +1,12 @@
+{
+  "name": "com.playfab.sdk",
+  "version": "2.221.0",
+  "displayName": "PlayFab SDK",
+  "description": "PlayFab SDK UPM",
+  "unity": "2022.3",
+  "keywords": ["playfab", "backend", "multiplayer"],
+  "author": {
+    "name": "PlayFab",
+    "url": "https://github.com/matsuoka-to/UnitySDK"
+  }
+}
