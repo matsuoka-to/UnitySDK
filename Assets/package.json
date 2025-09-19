@@ -3,7 +3,7 @@
   "version": "2.221.0",
   "displayName": "PlayFab SDK",
   "description": "PlayFab SDK UPM",
-  "unity": "6000.0.58f1",
+  "unity": "2022.3",
   "keywords": ["playfab", "backend", "multiplayer"],
   "author": {
     "name": "PlayFab",
